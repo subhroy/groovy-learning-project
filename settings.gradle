@@ -1,0 +1,5 @@
+rootProject.name = 'groovy-learning-project'
+include 'json-display'
+include 'show-date'
+
+         
